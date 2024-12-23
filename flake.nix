@@ -35,7 +35,7 @@
                nodejs yarn
             ] ++ linuxDeps ++ darwinDeps;
             shellHook = ''
-              export PATH=bun:$PATH
+              export PATH=bin:$PATH
             '';
           };
         };
