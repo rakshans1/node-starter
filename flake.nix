@@ -24,7 +24,7 @@
           CoreServices
         ]);
 
-        nodejs = pkgs.nodejs_20;
+        nodejs = pkgs.nodejs_22;
         yarn = pkgs.yarn.override { nodejs = nodejs; };
 
       in

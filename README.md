@@ -10,7 +10,7 @@ Setup direnv with [shell](https://direnv.net/docs/hook.html)
 Run `direnv allow`
 
 ```
-Node: 20.12.2
+Node: 22.14.0
 Yarn: 1.22.22
 ```
 
